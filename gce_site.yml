@@ -1,10 +1,10 @@
-name: "mapoland-lab.github.io/GenCuantEcol"
+name: "mapoland-lab.github.io/Gen-Cuantitativa-Ecol"
 output_dir: "."
 navbar:
   title: "Genética Cuantitativa y Ecológica"
   left:
     - text: "Programa"
-      href: test.html
+      href: index.html
     - text: "tareas y lecturas"
       href: tareas_lecturas2.html
    
