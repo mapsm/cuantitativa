@@ -1,0 +1,10 @@
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "Genética Cuantitativa y Ecológica"
+  left:
+    - text: "Programa"
+      href: test.html
+    - text: "tareas y lecturas"
+      href: tareas_lecturas2.html
+   
