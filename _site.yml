@@ -1,13 +1,12 @@
-name: "Gen-Cuantitativa-Ecol"
+name: "Genética Cuantitativa y Ecológica"
 output_dir: "."
-navbar:"https://mapoland-lab.github.io/Gen-Cuantitativa-Ecol/"
-  title: "Genética Cuantitativa y Ecológica"
+navbar:
+  title: "Genetica Cuantitativa y Ecológica"
   left:
     - text: "Programa"
       href: index.html
     - text: "tareas y lecturas"
       href: tareas_lecturas2.html
-
- output:
+output:
   html_document:
     theme: cosmo
