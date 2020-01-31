@@ -9,3 +9,5 @@ navbar:
       href: lecturas.html
     - text: "Tareas"
       href: tareas.html
+    - text: "Presentaciones"
+      href: presentaciones.html
