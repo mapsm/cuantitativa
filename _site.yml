@@ -11,9 +11,4 @@ navbar:
       href: tareas.html
     - text: "Presentaciones"
       href: presentaciones.html
-output:
-  html_document:
-    highlight: textmate
-    include:
-      after_body: 
-    css: styles.css
+
