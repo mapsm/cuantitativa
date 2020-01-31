@@ -1,7 +1,7 @@
 name: "Genética Cuantitativa y Ecológica"
 output_dir: "."
 navbar:
-  title: " Enero 2020"
+  title: "Enero 2020"
   left:
     - text: "Curso"
       href: index.html
