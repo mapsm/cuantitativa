@@ -1,7 +1,7 @@
 name: "Genética Cuantitativa y Ecológica"
 output_dir: "."
 navbar:
-  title:
+  title: "GCE"
   left:
     - text: "Curso"
       href: index.html
