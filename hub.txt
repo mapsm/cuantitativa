@@ -1,0 +1,6 @@
+hub wflax
+shortLabel wflax
+longLabel pale flax
+genomesFile genomes.txt
+email  psuarezmontes@gmail.com
+descriptionUrl aboutHub.html
